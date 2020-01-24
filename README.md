@@ -1,1 +1,0 @@
-# Get-a-token-for-Cloud-Foundry-API
